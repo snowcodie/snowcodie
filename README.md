@@ -5,12 +5,14 @@
 
 
   <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Ubuntu%20(1).png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Microsoft%20Windows.png"  width="30" height="30">
+<br>
+<img src="https://github.com/snowcodie/snowcodie/blob/main/src/HTML5.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Javascript.png"  width="30" height="30"><img src="https://github.com/snowcodie/snowcodie/blob/main/src/Nodejs.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
 
 
 
   
 
-<br>
+
 
 
 
