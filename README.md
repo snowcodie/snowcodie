@@ -15,6 +15,7 @@
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="Alt Text" width="300" height="200">
 <!--
 ## Contact
 
