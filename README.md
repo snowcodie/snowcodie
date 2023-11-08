@@ -22,6 +22,7 @@
 <a href="https://www.linkedin.com/in/lahiru-sanjana-024aba28a/">
   <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="linkedin" width="30" height="30" style="margin-right: 100px;">
 </a>
+<br>
 
 <!--
 ## Contact
