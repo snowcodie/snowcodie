@@ -9,9 +9,6 @@
 - MongoDB, Express.js, React, Node.js
 - Electronics - PLC, Arduino (Automation) 
 
-## Projects
-### BookNet
-### SerWise
 
 
 ## Contact me
