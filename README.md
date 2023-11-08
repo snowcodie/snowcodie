@@ -2,7 +2,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
 
 ## Worked with
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 - Python, Java, C++, Scala, JS, 
@@ -13,7 +13,8 @@
 ### BookNet
 ### SerWise
 
-[:linked_in: LinkedIn](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/) - Connect with me on LinkedIn for professional networking.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
 <!--
 ## Contact
 
