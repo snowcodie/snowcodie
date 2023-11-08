@@ -13,10 +13,9 @@
 ### BookNet
 ### SerWise
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)]()
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="Alt Text" width="30" height="30">
-[![GitHub Logo](https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png)](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
+<a href="[https://github.com](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="GitHub Logo" width="30" height="30">
+</a>
 <!--
 ## Contact
 
