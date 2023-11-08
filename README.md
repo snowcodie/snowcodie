@@ -3,11 +3,15 @@
 
 ## Worked with
 
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Ubuntu%20(1).png"  width="30" height="30" style="margin-left: 100px;">
-&nbsp;&nbsp;
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Microsoft%20Windows.png"  width="30" height="30" style="margin-left: 100px;">
-&nbsp;&nbsp;
+<a href="#">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Ubuntu%20(1).png"  width="30" height="30" style="margin-left: 100px;">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Microsoft%20Windows.png"  width="30" height="30" style="margin-right: 100px;">
+</a>
 <br>
+
 
 
 ## Contact me
