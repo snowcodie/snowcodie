@@ -3,11 +3,10 @@
 
 ## Worked with
 
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
-- Python, Java, C++, Scala, JS, 
-- MongoDB, Express.js, React, Node.js
-- Electronics - PLC, Arduino (Automation) 
+<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Ubuntu%20(1).png"  width="30" height="30" style="margin-left: 100px;">
+&nbsp;&nbsp;
+<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Microsoft%20Windows.png"  width="30" height="30" style="margin-left: 100px;">
+&nbsp;&nbsp;<br>
 
 
 
