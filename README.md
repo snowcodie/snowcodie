@@ -14,8 +14,14 @@
 ### SerWise
 
 <a href="https://www.linkedin.com/in/lahiru-sanjana-024aba28a/">
-  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="GitHub Logo" width="30" height="30">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="linkedin" width="30" height="30">
 </a>
+
+<a href="lahirusanjana1@gmail.com">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Google%20-%20Original.png" alt="email" width="30" height="30">
+</a>
+
+
 <!--
 ## Contact
 
