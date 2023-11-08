@@ -14,7 +14,7 @@
 ### SerWise
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
 <!--
 ## Contact
 
