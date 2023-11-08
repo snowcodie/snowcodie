@@ -16,7 +16,7 @@
 
 ## Contact me
 <a href="mailto:lahirusanjana1@gmail.com" style="text-decoration: none;">
-  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Google%20-%20Original.png"  width="30" height="30" style="margin-left: 100px;">
+  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Group%2014.png"  width="30" height="30" style="margin-left: 100px;">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lahiru-sanjana-024aba28a/" style="text-decoration: none;">
