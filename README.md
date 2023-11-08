@@ -1,5 +1,5 @@
-# Lahiru Sanjana
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
+## Lahiru Sanjana
+#![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
 
 ## Worked with
 - Python, Java, C++, Scala, JS, 
@@ -10,7 +10,7 @@
 ### BookNet
 ### SerWise
 
-
+[LinkedIn](https://www.linkedin.com/in/your-username) 
 <!--
 ## Contact
 
