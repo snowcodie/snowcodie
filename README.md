@@ -16,6 +16,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
 <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png" alt="Alt Text" width="30" height="30">
+[![GitHub Logo](https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png)](https://github.com)
 <!--
 ## Contact
 
