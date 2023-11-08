@@ -1,5 +1,5 @@
 # Lahiru Sanjana
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
 
 ## Worked with
 - Python, Java, C++, Scala, JS, 
@@ -7,7 +7,7 @@
 - Electronics - PLC, Arduino (Automation) 
 
 ## Projects
-### BookNety
+### BookNet
 ### SerWise
 
 
@@ -20,13 +20,10 @@
 
 - [Include links to your personal website, LinkedIn, Twitter, and other relevant online profiles]
 -->
-## Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
 
 ---
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring new opportunities together.
+
 
 
 
