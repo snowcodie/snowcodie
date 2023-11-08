@@ -10,7 +10,7 @@
 ### BookNet
 ### SerWise
 
-[LinkedIn](https://www.linkedin.com/in/your-username) 
+[:linked_in: LinkedIn](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/) - Connect with me on LinkedIn for professional networking.
 <!--
 ## Contact
 
