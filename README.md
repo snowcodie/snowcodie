@@ -2,6 +2,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
 
 ## Worked with
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 - Python, Java, C++, Scala, JS, 
 - MongoDB, Express.js, React, Node.js
 - Electronics - PLC, Arduino (Automation) 
