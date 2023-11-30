@@ -15,7 +15,7 @@
 <img src="https://github.com/snowcodie/snowcodie/blob/main/src/npm.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/yarn.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
 <br>
 <img src="https://github.com/snowcodie/snowcodie/blob/main/src/MySQL.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/MongoDB.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/MySQL.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/MongoDB.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
+
 
   
 
