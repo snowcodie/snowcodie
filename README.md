@@ -1,65 +1,36 @@
-### Lahiru Sanjana
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark)
+# Lahiru Sanjana
+**Software Engineer**
 
-## Worked with
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&hide=issues&theme=default)](https://github.com/snowcodie)
 
+## About Me
+I'm a software engineer with experience in full-stack development, mobile applications, and backend systems. I enjoy solving complex problems and building scalable, efficient solutions.
 
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Ubuntu%20(1).png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Microsoft%20Windows.png"  width="30" height="30">&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Android.png"  width="30" height="30">
-<br>
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/HTML5.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Javascript.png"  width="30" height="30">&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Nodejs.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
-<br>
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Java.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/C.png"  width="30" height="30">&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Flutter.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Kotlin.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Python.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Scala.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
-<br>
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/apache.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/Tomcat.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
-<br>
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/npm.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/yarn.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
-<br>
-<img src="https://github.com/snowcodie/snowcodie/blob/main/src/MySQL.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;<img src="https://github.com/snowcodie/snowcodie/blob/main/src/MongoDB.png"  width="30" height="30" >&nbsp;&nbsp;&nbsp;
+## Technical Stack
 
+### Languages
+- **Primary:** Java, JavaScript/TypeScript, Python
+- **Also experienced with:** C, Kotlin, Scala, Dart
 
-  
+### Frameworks & Technologies
+- **Backend:** Node.js, Spring Boot, Apache, Tomcat
+- **Frontend:** React, HTML5, CSS
+- **Mobile:** Flutter, Android
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, NPM, Yarn
+- **Platforms:** Ubuntu, Windows, Android
 
+## Experience
+*(Add your work experience here)*
 
+## Education
+*(Add your education details here)*
 
-
-
-## Contact me
-<a href="mailto:lahirusanjana1@gmail.com" style="text-decoration: none;">
-  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Group%2014.png"  width="30" height="30" style="margin-left: 100px;">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lahiru-sanjana-024aba28a/" style="text-decoration: none;">
-  <img src="https://github.com/snowcodie/snowcodie/blob/main/src/Vector.png"  width="30" height="30" style="margin-right: 100px;">
-</a>
-<br>
-
-<!--
 ## Contact
-
-- 
-
-## Find Me Online
-
-- [Include links to your personal website, LinkedIn, Twitter, and other relevant online profiles]
--->
+- **Email:** [lahirusanjana1@gmail.com](mailto:lahirusanjana1@gmail.com)
+- **LinkedIn:** [Lahiru Sanjana](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
+- **GitHub:** [snowcodie](https://github.com/snowcodie)
 
 ---
 
-
-
-
-
-<!--
-**snowcodie/snowcodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Last Updated: Month Year*
