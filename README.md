@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lahiru Sanjana
 
-Software Engineer with experience in full-stack development, mobile applications, and backend systems. Passionate about creating efficient, scalable solutions and continuously learning new technologies.
+Technical professional operating at the intersection of enterprise systems (SAP) and modern application development (Java/Web/Mobile). Passionate about transforming business requirements into scalable digital solutions that bridge organizational needs with user-centered experiences.
 
 ## 📊 GitHub Statistics
 
