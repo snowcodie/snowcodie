@@ -56,23 +56,23 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ## 💼 Professional Experience
 
 ### **SAP Technical Consultant / Developer**
-**Company Name** | *Month Year - Present*
+**Rizing** | *November 2024 - Present*
 - Developed custom SAP solutions using ABAP programming for various business modules
 - Created Fiori applications using SAPUI5 and RAP (RESTful Application Programming) framework
 - Implemented custom forms, reports, and data conversion programs (BDC)
 - Maintained and enhanced existing SAP applications including Dynpro (Screen Programming)
 - Integrated SAP systems with external applications using RFCs and web services
 
-### **Full-Stack Developer**
-**Company/Project Name** | *Month Year - Month Year*
+### **SAP Technical Consultant / Developer**
+**Hela Clothing** | *May 2024 - July 2024*
 - Developed Java Spring Boot applications with PostgreSQL/MySQL databases
 - Built responsive web applications using React/Node.js with RESTful API integration
 - Created cross-platform mobile applications using Flutter
 - Implemented microservices architecture and containerization with Docker
 - Collaborated using Agile/Scrum methodologies
 
-### **SAP ABAP Developer**
-**Previous Company** | *Month Year - Month Year*
+### **Full-Stack Developer - Internship**
+**Hela Clothing** | *November 2023 - May 2024*
 - Developed ALV reports, interactive reports, and module pool programs
 - Created and enhanced Smart Forms and Adobe Forms
 - Implemented user exits, BADIs, and enhancement spots
@@ -82,10 +82,7 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ## 🎓 Education
 
 ### **Bachelor of Science in Computer Science**
-**University Name** | *Year - Year*
-- Relevant Coursework: Enterprise Systems, Database Management, Software Engineering, Web Development
-- Graduated with Honors
-- Capstone Project: Integrated SAP-Web application interface for inventory management
+**University of Colombo School of Computing** | *2020 - 2023*
 
 ## 📂 Featured Projects
 
