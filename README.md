@@ -2,9 +2,17 @@
 
 Technical professional operating at the intersection of enterprise systems (SAP) and modern application development (Java/Web/Mobile). Passionate about transforming business requirements into scalable digital solutions that bridge organizational needs with user-centered experiences.
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/snowcodie)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcodie&layout=compact&theme=dark&hide_border=true)](https://github.com/snowcodie)
 
 ## 🛠️ Technical Skills
+
+### **Enterprise Systems (SAP)**
+![ABAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-4CAF50?style=for-the-badge&logo=sap&logoColor=white)
+![SAP RAP](https://img.shields.io/badge/SAP_RAP_(RESTful_Application_Programming)-007DB8?style=for-the-badge&logo=sap&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP_UI5-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Screen Programming](https://img.shields.io/badge/SAP_Dynpro_(Screen_Programming)-FF6D00?style=for-the-badge&logo=sap&logoColor=white)
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,16 +22,21 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### **Databases**
+### **Databases & Data Management**
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-007DB8?style=for-the-badge&logo=sap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,6 +45,7 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![SAP GUI](https://img.shields.io/badge/SAP_GUI_for_Java-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,38 +55,54 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 
 ## 💼 Professional Experience
 
-### **Software Developer**
+### **SAP Technical Consultant / Developer**
 **Company Name** | *Month Year - Present*
-- Developed and maintained scalable web applications using Node.js and React
-- Implemented RESTful APIs and microservices architecture
-- Collaborated with cross-functional teams using Agile methodologies
-- Optimized database queries improving performance by 30%
+- Developed custom SAP solutions using ABAP programming for various business modules
+- Created Fiori applications using SAPUI5 and RAP (RESTful Application Programming) framework
+- Implemented custom forms, reports, and data conversion programs (BDC)
+- Maintained and enhanced existing SAP applications including Dynpro (Screen Programming)
+- Integrated SAP systems with external applications using RFCs and web services
 
-### **Mobile App Developer**
+### **Full-Stack Developer**
 **Company/Project Name** | *Month Year - Month Year*
-- Built cross-platform mobile applications using Flutter
-- Integrated with backend services and third-party APIs
-- Implemented responsive UI/UX designs
-- Published apps on Google Play Store
+- Developed Java Spring Boot applications with PostgreSQL/MySQL databases
+- Built responsive web applications using React/Node.js with RESTful API integration
+- Created cross-platform mobile applications using Flutter
+- Implemented microservices architecture and containerization with Docker
+- Collaborated using Agile/Scrum methodologies
+
+### **SAP ABAP Developer**
+**Previous Company** | *Month Year - Month Year*
+- Developed ALV reports, interactive reports, and module pool programs
+- Created and enhanced Smart Forms and Adobe Forms
+- Implemented user exits, BADIs, and enhancement spots
+- Performance optimization of existing ABAP programs
+- Data migration using LSMW and BDC programming
 
 ## 🎓 Education
 
 ### **Bachelor of Science in Computer Science**
 **University Name** | *Year - Year*
-- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+- Relevant Coursework: Enterprise Systems, Database Management, Software Engineering, Web Development
 - Graduated with Honors
-- Capstone Project: [Brief description of your project]
+- Capstone Project: Integrated SAP-Web application interface for inventory management
 
 ## 📂 Featured Projects
 
-### **[Project Name 1](https://github.com/snowcodie/project1)**
-Brief description of the project, technologies used, and key features.
+### **[SAP-Fiori Integration App](https://github.com/snowcodie/project1)**
+Hybrid application integrating SAP backend with modern web technologies. Features include real-time data synchronization, custom Fiori tiles, and responsive UI.
 
-### **[Project Name 2](https://github.com/snowcodie/project2)**
-Brief description of the project, technologies used, and key features.
+**Technologies:** SAP RAP, SAPUI5, ABAP OO, OData Services, Java Spring Boot
 
-### **[Project Name 3](https://github.com/snowcodie/project3)**
-Brief description of the project, technologies used, and key features.
+### **[Enterprise Mobile Dashboard](https://github.com/snowcodie/project2)**
+Mobile application providing SAP data visualization and business intelligence on-the-go with offline capability.
+
+**Technologies:** Flutter, Dart, REST APIs, SQLite, SAP Gateway
+
+### **[Microservices Inventory System](https://github.com/snowcodie/project3)**
+Modern inventory management system with SAP integration and real-time tracking.
+
+**Technologies:** Java Spring Boot, PostgreSQL, React, Docker, SAP PI/PO
 
 ## 📫 Connect With Me
 
@@ -80,13 +110,16 @@ Brief description of the project, technologies used, and key features.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-sanjana-024aba28a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snowcodie)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![SAP Community](https://img.shields.io/badge/SAP_Community-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://community.sap.com)
 
 ## 📈 GitHub Activity
 
-<!-- GitHub Readme Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=snowcodie&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![SAP Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-sap-repo&theme=dark)](https://github.com/snowcodie/your-sap-repo)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-java-repo&theme=dark)](https://github.com/snowcodie/your-java-repo)
 
 ---
 
-*⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!*
+**💡 Bridging Enterprise Systems with Modern Development**  
+*Open to collaboration on projects that combine SAP expertise with contemporary application development!*
