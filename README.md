@@ -2,8 +2,6 @@
 
 Technical professional operating at the intersection of enterprise systems (SAP) and modern application development (Java/Web/Mobile). Passionate about transforming business requirements into scalable digital solutions that bridge organizational needs with user-centered experiences.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcodie&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/snowcodie)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcodie&layout=compact&theme=dark&hide_border=true)](https://github.com/snowcodie)
 
 ## 🛠️ Technical Skills
 
