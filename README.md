@@ -85,7 +85,7 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ## 📂 Featured Projects
 
 ### **Document Management System - Laravel,Angular**
-Developed a secure, full-featured document management system with centralized file storage, controlled access, and collaborative editing. Integrated OnlyOffice Document Server to enable real-time editing of Word, Excel, and PowerPoint files using secure, backend-generated file URLs. Implemented an EJ2 File Manager interface with metadata handling, previews, and versioning. Designed and built multi-level approval flows with user-level assignments, decision tracking, and audit history. Added comprehensive user management with roles, permissions, and granular document access control.
+Built a secure and easy-to-use document management system with centralized file storage and controlled access. Integrated OnlyOffice Document Server so users can edit Word, Excel, and PowerPoint files directly in the browser using secure backend-generated links. Added an EJ2 File Manager for browsing files with previews, metadata, and version history. Created a clear multi-level approval flow with assigned users, decision tracking, and full audit logs. Included user management with roles, permissions, and detailed access control.
 
 **Technologies:** SAP RAP, SAPUI5, ABAP OO, OData Services, Java Spring Boot
 
