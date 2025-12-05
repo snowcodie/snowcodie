@@ -82,21 +82,18 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ### **Bachelor of Science in Computer Science**
 **University of Colombo School of Computing** | *2020 - 2023*
 
-## 📂 Featured Projects
+## 📂 Pet Projects
 
-### **[Document Management System - Laravel,Angular](https://github.com/snowcodie/project2)**
+### **Document Management System - Laravel,Angular**
 Built a secure and easy-to-use document management system with centralized file storage and controlled access. Integrated OnlyOffice Document Server so users can edit Word, Excel, and PowerPoint files directly in the browser using secure backend-generated links. Added an EJ2 File Manager for browsing files with previews, metadata, and version history. Created a clear multi-level approval flow with assigned users, decision tracking, and full audit logs. Included user management with roles, permissions, and detailed access control.
 
 
-### **[Enterprise Mobile Dashboard](https://github.com/snowcodie/project2)**
-Mobile application providing SAP data visualization and business intelligence on-the-go with offline capability.
+### **Travel Assist System - JS**
+Built a comprehensive full-stack travel booking and management SaaS platform using Next.js 16, React 19, TypeScript, and MySQL with Prisma ORM. The application handles vehicle bookings, event management, destination showcases, and payment processing through Stripe integration.
+**Technologies:** Next.js, Next.js API routes, MySQL 
 
-**Technologies:** Flutter, Dart, REST APIs, SQLite, SAP Gateway
 
-### **[Microservices Inventory System](https://github.com/snowcodie/project3)**
-Modern inventory management system with SAP integration and real-time tracking.
 
-**Technologies:** Java Spring Boot, PostgreSQL, React, Docker, SAP PI/PO
 
 ## 📫 Connect With Me
 
