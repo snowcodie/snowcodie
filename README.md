@@ -90,7 +90,7 @@ Built a comprehensive full-stack travel booking and management SaaS platform usi
 **Technologies:** Next.js, Next.js API routes, MySQL 
 
 ### **Algo Visualizer - Next,Next API**
-Algo Visualizer is an open full-stack educational project built with Next.js 14 and TypeScript, offering interactive visualizations for 10+ algorithms, including sorting, pathfinding, and AVL/Red-Black trees. It also features step-by-step JWT authentication and SSL/TLS handshake demos, custom cryptographic utilities, and Canvas-based visualizers. Deployed with Docker on DigitalOcean, it showcases modern web development, security, and cloud skills. The project is fully open—anyone can contribute or use the code for their own purposes.
+Algo Visualizer is an open full-stack educational pet project built in just two days using Next.js 14 and TypeScript. It offers interactive visualizations for 10+ algorithms, including sorting, pathfinding, and AVL/Red-Black trees. The app includes step-by-step JWT authentication and SSL/TLS handshake demos, custom cryptographic utilities, and Canvas-based visualizers. Built with AI assistance and deployed via Docker on DigitalOcean, it showcases strong web, security, and cloud skills. Anyone can contribute or freely use the code.
 
 
 
