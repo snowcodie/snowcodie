@@ -56,7 +56,7 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 ### **SAP Technical Consultant / Developer**
 **Rizing** | *November 2024 - Present*
 - Developed custom SAP solutions using ABAP programming for various business modules
-- Created Fiori applications using SAPUI5 and RAP (RESTful Application Programming) framework
+- Maintained Fiori applications using SAPUI5 and RAP (RESTful Application Programming) framework
 - Implemented custom forms, reports, and data conversion programs (BDC)
 - Maintained and enhanced existing SAP applications including Dynpro (Screen Programming)
 - Integrated SAP systems with external applications using RFCs and web services
@@ -65,8 +65,6 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 **Hela Clothing** | *May 2024 - July 2024*
 - Developed Java Spring Boot applications with PostgreSQL/MySQL databases
 - Built responsive web applications using React/Node.js with RESTful API integration
-- Created cross-platform mobile applications using Flutter
-- Implemented microservices architecture and containerization with Docker
 - Collaborated using Agile/Scrum methodologies
 
 ### **Full-Stack Developer - Internship**
@@ -75,7 +73,6 @@ Technical professional operating at the intersection of enterprise systems (SAP)
 - Created and enhanced Smart Forms and Adobe Forms
 - Implemented user exits, BADIs, and enhancement spots
 - Performance optimization of existing ABAP programs
-- Data migration using LSMW and BDC programming
 
 ## 🎓 Education
 
@@ -92,6 +89,9 @@ Built a secure and easy-to-use document management system with centralized file 
 Built a comprehensive full-stack travel booking and management SaaS platform using Next.js 16, React 19, TypeScript, and MySQL with Prisma ORM. The application handles vehicle bookings, event management, destination showcases, and payment processing through Stripe integration.
 **Technologies:** Next.js, Next.js API routes, MySQL 
 
+### **Algo Visualizer - Next,Next API**
+Algo Visualizer is an open full-stack educational project built with Next.js 14 and TypeScript, offering interactive visualizations for 10+ algorithms, including sorting, pathfinding, and AVL/Red-Black trees. It also features step-by-step JWT authentication and SSL/TLS handshake demos, custom cryptographic utilities, and Canvas-based visualizers. Deployed with Docker on DigitalOcean, it showcases modern web development, security, and cloud skills. The project is fully open—anyone can contribute or use the code for their own purposes.
+
 
 
 
@@ -104,6 +104,9 @@ Built a comprehensive full-stack travel booking and management SaaS platform usi
 ## 📈 GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=snowcodie&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![SAP Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-sap-repo&theme=dark)](https://github.com/snowcodie/your-sap-repo)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-java-repo&theme=dark)](https://github.com/snowcodie/your-java-repo)
 
 ---
 
