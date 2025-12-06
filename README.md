@@ -105,8 +105,6 @@ Algo Visualizer is an open full-stack educational pet project built in just two 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=snowcodie&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![SAP Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-sap-repo&theme=dark)](https://github.com/snowcodie/your-sap-repo)
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=snowcodie&repo=your-java-repo&theme=dark)](https://github.com/snowcodie/your-java-repo)
 
 ---
 
